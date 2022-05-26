@@ -1,0 +1,11 @@
+{
+	"main": "index.html",
+	"logo": "MBE.jpg",
+	"features": [
+		{
+		  "code": "hello",
+		  "explain": "hello world",
+          "cmds":["hello", "你好"]
+		}
+	]
+}
